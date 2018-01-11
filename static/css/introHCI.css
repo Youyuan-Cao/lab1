@@ -16,6 +16,21 @@ body {
      padding: 20px;
 }
 
+.project{
+     margin-left: 20px;
+}
+
+img .thumbnail{
+     width: 50px;
+     height: 100px;
+     border: 1px solid #434343;
+}
+
+.contact-info{
+     font-size: 10pt;
+     color: #cccccc;
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
